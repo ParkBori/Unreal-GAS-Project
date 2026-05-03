@@ -54,6 +54,9 @@ Client/x64
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
+# Content File 
+Content/*
+
 # Binary Files
 Binaries/*
 Plugins/**/Binaries/*
